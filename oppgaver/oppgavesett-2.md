@@ -1,2 +1,0 @@
-# Oppgavesett 2:
-
