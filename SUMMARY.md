@@ -3,6 +3,7 @@
 ## Oppgaver
 
 * [Oppgavesett 1: Console.Log()](README.md)
+* [Oppgavesett 2: Variabler](oppgaver/oppgavesett-2-variabler.md)
 * [Oppgavesett 3: Grunnleggende om arrays](oppgaver/oppgavesett-3-grunnleggende-om-arrays.md)
 * [Oppgavesett 5: if...else](oppgaver/oppgavesett-5-if...else.md)
 * [Oppgavesett 10: OOP](oppgaver/oppgavesett-10-oop.md)
